@@ -57,5 +57,5 @@ STEPS TAKEN TO COMPLETE THIS PROJECT:
 - split the dataset into train and tests
 - imported important metrics used to evaluate the models
 - performed standard scaling on the data for better fit
-- modelling using Random Forest classifier, Logistic Regression, Decision Tree Classifier and K nearest Neighbor.
+- modelling using Random Forest classifier, Logistic Regression.
 - performed model evaluation for every model imported.
